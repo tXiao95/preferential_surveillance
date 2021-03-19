@@ -1,3 +1,6 @@
+data/us.rda
+GADM_2.8_USA_adm1.rds
+
 # History files
 .Rhistory
 .Rapp.history
@@ -44,3 +47,4 @@ docs/
 # translation temp files
 po/*~
 .Rproj.user
+inst/doc
